@@ -1,0 +1,48 @@
+.Mike{
+
+    background-color: white;
+}
+.miles{
+    background-color: royalblue;
+
+}
+body {
+
+    background-color: red;
+}
+.Mike{
+    text-align: center;
+}
+.miles{
+    padding-top: 50px;
+}
+.Mike{
+    padding: 50px;
+}
+.Mike{
+    margin: 5px;
+}
+p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+p{
+    font-weight: 200;
+    font-size: 20px;}
+
+    .Mike{
+        border-radius: 30px;
+    }
+    .miles{
+        border-radius: 50px;
+    }
+    h1{
+        color: turquoise;
+    }
+
+.miles{
+    border-style: dotted;
+}
+.Mike{
+    border-radius: 10px;
+}
+    
